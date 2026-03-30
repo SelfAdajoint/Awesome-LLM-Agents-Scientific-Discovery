@@ -115,8 +115,11 @@ The emergence of AI agents in scientific discovery represents more than just tec
 - **[DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents](https://arxiv.org/abs/2406.06769)**  
   *Peter Jansen, Marc-Alexandre Côté, Tushar Khot, Erin Bransom, et al.* arXiv 2024
 
-- **[Genesis: Towards the Automation of Systems Biology Research](https://arxiv.org/abs/2408.10689)**  
+- **[Genesis: Towards the Automation of Systems Biology Research](https://arxiv.org/abs/2408.10689)**
   *Ievgeniia A Tiukova, Daniel Brunnsåker, Erik Y Bjurström, Alexander H Gower, et al.* arXiv 2024
+
+- **[AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing](https://arxiv.org/abs/2602.17607)**
+  *Jianda Du, Youran Sun, Haizhao Yang.* arXiv 2025
 
 ## Domain Applications
 
