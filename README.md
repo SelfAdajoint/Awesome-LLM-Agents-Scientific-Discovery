@@ -191,8 +191,12 @@ The emergence of AI agents in scientific discovery represents more than just tec
 - **[CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis](https://www.biorxiv.org/content/10.1101/2024.05.13.593861v1)**  
   *Yihang Xiao, Jinyi Liu, Yan Zheng, Xiaohan Xie, et al.* bioRxiv 2024
 
-- **[SeqMate: A Novel Large Language Model Pipeline for Automating RNA Sequencing](https://arxiv.org/abs/2407.03381)**  
+- **[SeqMate: A Novel Large Language Model Pipeline for Automating RNA Sequencing](https://arxiv.org/abs/2407.03381)**
   *Devam Mondal, Atharva Inamdar.* arXiv 2024
+
+- **[ChatSpatial: Schema-Enforced Agentic Orchestration for Reproducible and Cross-Platform Spatial Transcriptomics](https://doi.org/10.64898/2026.02.26.708361)**
+  *Chen Yang, Xianyang Zhang, Jun Chen.* bioRxiv 2026
+  An MCP server that enables spatial transcriptomics analysis via natural language, integrating 60+ methods across Python and R into a single conversational workflow. [Code](https://github.com/cafferychen777/ChatSpatial)
 
 ### Chemistry & Materials Science
 
