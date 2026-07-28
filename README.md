@@ -214,6 +214,9 @@ The emergence of AI agents in scientific discovery represents more than just tec
 ## Evaluation & Benchmarking
 
 ### General Benchmarks
+- **[ClawBench: A Comprehensive Benchmark for Evaluating AI Web Agents](https://arxiv.org/abs/2604.08523)**  
+  *Reacher et al.* arXiv 2026. An open benchmark for browser agents on everyday tasks across live websites, with 153 V1 and 130 V2 tasks and reproducible execution traces ([code](https://github.com/reacher-z/ClawBench), [project](https://claw-bench.com/)).
+
 - **[AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2308.03688)**  
   *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, et al.* arXiv 2023
 
@@ -268,7 +271,6 @@ Please feel free to send a pull request if you want to:
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
 
 
 
